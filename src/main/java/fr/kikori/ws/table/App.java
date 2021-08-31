@@ -1,6 +1,6 @@
-package fr.kikori.ws;
+package fr.kikori.ws.table;
 
-import fr.kikori.ws.utils.BeerProvider;
+import fr.kikori.ws.table.utils.BeerProvider;
 
 public class App {
 

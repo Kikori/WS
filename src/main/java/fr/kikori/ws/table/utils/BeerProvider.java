@@ -1,6 +1,6 @@
-package fr.kikori.ws.utils;
+package fr.kikori.ws.table.utils;
 
-import fr.kikori.ws.model.Beer;
+import fr.kikori.ws.table.model.Beer;
 import java.util.Arrays;
 import java.util.List;
 

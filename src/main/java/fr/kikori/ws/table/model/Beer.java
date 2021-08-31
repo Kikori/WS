@@ -1,4 +1,4 @@
-package fr.kikori.ws.model;
+package fr.kikori.ws.table.model;
 
 /**
  * Model of a beer.
