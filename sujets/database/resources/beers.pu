@@ -1,0 +1,25 @@
+@startuml
+
+class Beer {
+  id
+  name
+  colour
+  abv
+  producedSince
+  inProduction
+}
+
+class Brewer {
+  id
+  name
+  country
+}
+
+class BottleSize {
+ value
+}
+
+Beer "*"-left-*"1" Brewer
+Beer "*"-down-"1..*" BottleSize
+
+@enduml
