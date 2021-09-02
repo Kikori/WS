@@ -1,4 +1,4 @@
-# Popups
+# Création de la base de données
 
 ## Etape 1: Créer une base de données
 Créer une base de données MySQL appelée WS_BEERS
